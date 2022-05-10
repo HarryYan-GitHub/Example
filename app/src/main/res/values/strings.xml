@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DaggerHiltPlayground</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_the_main_screen">Go to the Main Screen</string>
+    <string name="refresh">Refresh</string>
+    <string name="download_from_api_backend">Download from API backend.</string>
+    <string name="download_from_firebase_backend">Download from Firebase backend.</string>
+    <string name="picture">picture</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849100487394",
+    "project_id": "daggerhiltplayground",
+    "storage_bucket": "daggerhiltplayground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849100487394:android:0e806c1be5d627da41fcbb",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.daggerhiltplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849100487394-l51fd5asgjl4bq80vvnqlkp3u2l91dks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_wKHXpSxs-Fza2m900ePl9Ru-nNkfm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849100487394-l51fd5asgjl4bq80vvnqlkp3u2l91dks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
